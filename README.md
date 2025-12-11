@@ -1,5 +1,6 @@
 # Simple-TCP-Chat-App
-Simple TCP Chat Application using Java Swing for Advanced Java Programming course individual assignment 
+Simple TCP Chat Application using Java Swing for Advanced Java Programming course individual assignment. 
+
 This is a basic bidirectional chat application built using Java Swing for the graphical user interface and TCP sockets for network communication. It demonstrates fundamental concepts from network programming, such as establishing client-server connections, sending/receiving messages via streams, and handling GUI events. The app supports a single client connection and logs messages with timestamps.
 
 ## Features
